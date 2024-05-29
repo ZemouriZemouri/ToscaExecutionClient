@@ -7,6 +7,8 @@ This project explains you how to trigger your tests with Tosca Execution Client 
 Tosca Execution Clients allow you to trigger Tosca TestEvents from CI/CD pipelines or other environments. They're an out-of-the-box solution that comes with a variety of configuration options. What's more, the clients are fully script-based, which allows you to tailor your Tosca CI/CD integration exactly to your needs.
 Tosca Execution Clients leverage the Execution API of Tosca Server. If you want to integrate directly with the Execution API, check out the Tricentis documentation online.
 
+![Alt text](_architecture/architecture_execution_client.png)
+
 ## Supported functionality
 ### Tosca 15.2
 Tosca Execution Client supports full functionality for DEX executions. For Elastic Execution Grid executions, Tosca Execution Client supports enqueuing executions through the enqueueOnly option.
