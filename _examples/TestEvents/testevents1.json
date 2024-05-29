@@ -1,0 +1,12 @@
+[
+    "MyTestEvent1",
+    {
+      "eventId": "MyTestEvent2",
+      "parameters": {
+        "Browser": "Chrome"
+      },
+      "characteristics": {
+        "AppVersion": "15.0"
+      }
+    }
+]

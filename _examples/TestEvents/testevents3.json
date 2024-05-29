@@ -1,0 +1,24 @@
+[  
+    {
+      "eventId": "TestEvent 1",
+      "parameters": {
+        "TCP 1 name": "TCP 1 value",
+        "TCP 2 name": "TCP 2 value"
+      },
+      "characteristics": {
+        "characteristic 1 name": "characteristic 1 value",
+        "characteristic 2 name": "characteristic 2 value"
+      }
+    },
+    {
+      "eventId": "TestEvent 2",
+      "parameters": {
+        "parameter 1 name": "parameter 1 value",
+        "parameter 2 name": "parameter 2 value"
+      },
+      "characteristics": {
+        "characteristic 1 name": "characteristic 1 value",
+        "characteristic 2 name": "characteristic 2 value"
+      }
+    }
+]
