@@ -1,4 +1,4 @@
-# ToscaExecutionClient
+# Tosca Execution Client
 This project explains you how to trigger your tests with Tosca Execution Client (TEC). TEC is fully script-based, which allows you to prepare your Tosca CI/CD integration exactly to your needs. It's based on the following GitHub-project: 
 
 * https://github.com/Tricentis/ToscaExecutionClient
