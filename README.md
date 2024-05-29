@@ -1,5 +1,7 @@
 # ToscaExecutionClient
-This project explains you how to trigger your tests with Tosca Execution Client (TEC). TEC is fully script-based, which allows you to prepare your Tosca CI/CD integration exactly to your needs. It's based on the following GitHub-project: https://github.com/Tricentis/ToscaExecutionClient
+This project explains you how to trigger your tests with Tosca Execution Client (TEC). TEC is fully script-based, which allows you to prepare your Tosca CI/CD integration exactly to your needs. It's based on the following GitHub-project: 
+
+* https://github.com/Tricentis/ToscaExecutionClient
 
 ## Description
 Our Tosca Execution Clients allow you to trigger Tosca TestEvents from CI/CD pipelines or other environments. They're an out-of-the-box solution that comes with a variety of configuration options. What's more, the clients are fully script-based, which allows you to tailor your Tosca CI/CD integration exactly to your needs.
